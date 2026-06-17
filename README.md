@@ -26,7 +26,9 @@ Interactive Power BI dashboard analyzing population, literacy, graduates, gender
 - Graduate population is concentrated in major metropolitan areas.
 
 ## Screenshots
-(Add Page 1, Page 2, and Page 3 screenshots)
+<img width="1307" height="743" alt="image" src="https://github.com/user-attachments/assets/4e00f4ea-a85b-472c-aef8-0c15d4edeb6c" />
+
+
 
 ## Files
 - India_Urban_Demographics.pbix
