@@ -33,4 +33,4 @@ Interactive Power BI dashboard analyzing population, literacy, graduates, gender
 
 
 ## Files
-India_Urban_Demographics.pbit
+https://github.com/Pratik-Rajgirwad/india-urban-demographics-dashboard/blob/main/India_Urban_Demographics.pbit
